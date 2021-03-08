@@ -2,7 +2,14 @@
 
 An R htmlwidget to display a metric as a large indicator card.
 
-Example:
+
+## Installation
+
+install.packages("devtools")
+devtools::install_github("dunhampa/metricCardr")
+
+
+## Example:
 
 ```
 library(metricCard)
