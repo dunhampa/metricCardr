@@ -9,7 +9,9 @@ library(metricCard)
 metricCard(list(number="850",title="Test Title", subtitle="Completed"))
 ```
 
-
+<a href="#">
+<img src="https://github.com/dunhampa/metricCardr/blob/main/man/metricCardExample.png">
+</a>
 
 The following resources were used to design the htmlwidget
 
